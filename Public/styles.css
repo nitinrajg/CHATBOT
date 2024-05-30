@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#chat-log {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.user-message {
+  background-color: #f0f0f0;
+}
+
+.agent-message {
+  background-color: #cff;
+}
